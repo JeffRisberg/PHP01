@@ -1,9 +1,9 @@
-/**
+<!--/**
  * Created by PhpStorm.
  * User: Brandon
  * Date: 10/14/2014
  * Time: 3:40 PM
- */
+ */-->
 
 <html>
 <body>
@@ -17,7 +17,7 @@ $host = "localhost";
 $db_name = "php01";
 
 $db_connection = mysqli_connect($host, $user, $password, $db_name);
-$order_id = $_REQUEST['edit'];
+$order_id = $_REQUEST['order_id'];
 
 $sql = <<<SQL
 Select *
@@ -33,10 +33,10 @@ echo "Number of rows returned: " . mysqli_num_rows($results) . "<br>";
 echo "Order_id=" . $order_id . "<br>";
 
 $row = $results->fetch_row();
-var_dump($row);
+//var_dump($row);
 ?>
 
-<form action="order_remove.php">
+<form action="order_update.php">
     <input type="hidden" name="order_id" value="<?php echo $order_id;?>"/>
     <table>
         <tr>
@@ -52,7 +52,8 @@ var_dump($row);
             <td><input type="text" name="spicyness" value="<?php echo $row[3];?>"></td>
         </tr>
         <tr>
-            <td><input type="submit" value="Delete"></td>
+            <td><input type="submit" name="operation" value="Update" default></td>
+            <td><input type="submit" name="operation" value="Delete"></td>
         </tr>
     </table>
 </form>

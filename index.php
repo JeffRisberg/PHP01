@@ -41,19 +41,15 @@ SQL;
 if (!$result = mysqli_query($db_connection, $sql)) {
 die('There was an error running the query [' . mysqli_error($db_connection) . ']');
 }
-?>
-    <form action="order_edit.php">
-        <?php
         while ($row = $result->fetch_assoc()) {
             echo "<tr>";
             echo "<td>" . $row['buyer_name'] . "</td>";
             echo "<td>" . $row['type_name'] . "</td>";
             echo "<td>" . $row['spicyness'] . "</td>";
-            echo "<td><input type=\"submit\" name=\"edit\" value=\"" . $row['order_id'] . "\"/></td>";
+            echo "<td><a href=\"order_edit.php?order_id=" . $row['order_id'] . "\">Edit</a></td>";
             echo "</tr>";
         }
         ?>
-    </form>
 </table>
 
 <h3>What tastes good to you?</h3>

@@ -28,16 +28,21 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.5384617" vertical-offset="544" max-vertical-offset="1462">
-              <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+            <state vertical-scroll-proportion="-9.423077" vertical-offset="537" max-vertical-offset="1394">
+              <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
               <folding>
-                <marker date="1413329159569" expanded="true" signature="288:317" placeholder="SELECT * FRO..pizza_types..." />
-                <marker date="1413329159569" expanded="true" signature="772:792" placeholder="SELECT * FRO..orders..." />
-                <marker date="1413329159569" expanded="true" signature="1504:1576" placeholder="..." />
-                <marker date="1413329159569" expanded="true" signature="1517:1576" placeholder="..." />
-                <marker date="1413329159569" expanded="true" signature="1633:1692" placeholder="..." />
-                <marker date="1413329159569" expanded="true" signature="1748:1810" placeholder="..." />
-                <marker date="1413329159569" expanded="true" signature="1866:1895" placeholder="..." />
+                <marker date="1413333513456" expanded="true" signature="288:317" placeholder="SELECT * FRO..pizza_types..." />
+                <marker date="1413333513456" expanded="true" signature="772:792" placeholder="SELECT * FRO..orders..." />
+                <marker date="1413333513456" expanded="true" signature="1424:1896" placeholder="..." />
+                <marker date="1413333513456" expanded="true" signature="1436:1508" placeholder="..." />
+                <marker date="1413333513456" expanded="true" signature="1436:1888" placeholder="..." />
+                <marker date="1413333513456" expanded="true" signature="1449:1508" placeholder="..." />
+                <marker date="1413333513456" expanded="true" signature="1565:1624" placeholder="..." />
+                <marker date="1413333513456" expanded="true" signature="1565:1667" placeholder="..." />
+                <marker date="1413333513456" expanded="true" signature="1680:1742" placeholder="..." />
+                <marker date="1413333513456" expanded="true" signature="1680:1785" placeholder="..." />
+                <marker date="1413333513456" expanded="true" signature="1798:1827" placeholder="..." />
+                <marker date="1413333513456" expanded="true" signature="1798:1875" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -46,8 +51,8 @@
       <file leaf-file-name="schema.sql" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/schema.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.357142" vertical-offset="0" max-vertical-offset="476">
-              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state vertical-scroll-proportion="-4.857143" vertical-offset="0" max-vertical-offset="476">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -56,49 +61,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="order_edit.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="order_edit.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/order_edit.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7183099" vertical-offset="510" max-vertical-offset="1105">
-              <caret line="54" column="50" selection-start-line="54" selection-start-column="50" selection-end-line="54" selection-end-column="50" />
+            <state vertical-scroll-proportion="-9.807693" vertical-offset="510" max-vertical-offset="1122">
+              <caret line="45" column="12" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
               <folding>
-                <marker date="1413331424898" expanded="true" signature="343:381" placeholder="Select * Fro..orders..." />
-                <marker date="1413331424898" expanded="true" signature="343:390" placeholder="Select * Fro..orders..." />
-                <marker date="1413331424898" expanded="true" signature="735:1367" placeholder="..." />
-                <marker date="1413331424898" expanded="true" signature="822:1359" placeholder="..." />
-                <marker date="1413331424898" expanded="true" signature="835:894" placeholder="..." />
-                <marker date="1413331424898" expanded="true" signature="835:968" placeholder="..." />
-                <marker date="1413331424898" expanded="true" signature="981:1040" placeholder="..." />
-                <marker date="1413331424898" expanded="true" signature="981:1113" placeholder="..." />
-                <marker date="1413331424898" expanded="true" signature="1126:1188" placeholder="..." />
-                <marker date="1413331424898" expanded="true" signature="1126:1261" placeholder="..." />
-                <marker date="1413331424898" expanded="true" signature="1274:1303" placeholder="..." />
-                <marker date="1413331424898" expanded="true" signature="1274:1346" placeholder="..." />
+                <marker date="1413333894503" expanded="true" signature="354:392" placeholder="Select * Fro..orders..." />
+                <marker date="1413333894503" expanded="true" signature="354:401" placeholder="Select * Fro..orders..." />
+                <marker date="1413333894503" expanded="true" signature="748:1480" placeholder="..." />
+                <marker date="1413333894503" expanded="true" signature="835:1472" placeholder="..." />
+                <marker date="1413333894503" expanded="true" signature="848:907" placeholder="..." />
+                <marker date="1413333894503" expanded="true" signature="848:981" placeholder="..." />
+                <marker date="1413333894503" expanded="true" signature="994:1053" placeholder="..." />
+                <marker date="1413333894503" expanded="true" signature="994:1126" placeholder="..." />
+                <marker date="1413333894503" expanded="true" signature="1139:1201" placeholder="..." />
+                <marker date="1413333894503" expanded="true" signature="1139:1274" placeholder="..." />
+                <marker date="1413333894503" expanded="true" signature="1287:1316" placeholder="..." />
+                <marker date="1413333894503" expanded="true" signature="1287:1459" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="order_update.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="order_update.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/order_update.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.1923075" vertical-offset="27" max-vertical-offset="595">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="29" selection-end-column="53" />
+            <state vertical-scroll-proportion="0.52112675" vertical-offset="265" max-vertical-offset="833">
+              <caret line="33" column="90" selection-start-line="33" selection-start-column="90" selection-end-line="33" selection-end-column="90" />
               <folding>
                 <element signature="e#6#91#0#PHP" expanded="true" />
-                <marker date="1413330578212" expanded="true" signature="390:479" placeholder="UPDATE order..." />
-                <marker date="1413330578212" expanded="true" signature="390:479" placeholder="UPDATE order..." />
-                <marker date="1413330578212" expanded="true" signature="390:479" placeholder="UPDATE order..." />
-                <marker date="1413330578212" expanded="true" signature="390:479" placeholder="UPDATE order..." />
-                <marker date="1413330578212" expanded="true" signature="396:408" placeholder="update order..." />
-                <marker date="1413330578212" expanded="true" signature="396:408" placeholder="update order..." />
-                <marker date="1413330578212" expanded="true" signature="396:408" placeholder="update order..." />
-                <marker date="1413330578212" expanded="true" signature="396:419" placeholder="update order..." />
-                <marker date="1413330578212" expanded="true" signature="396:421" placeholder="update order..." />
-                <marker date="1413330578212" expanded="true" signature="396:434" placeholder="update order..." />
-                <marker date="1413330578212" expanded="true" signature="396:434" placeholder="update order..." />
-                <marker date="1413330578212" expanded="true" signature="396:467" placeholder="update order..." />
-                <marker date="1413330578212" expanded="true" signature="396:469" placeholder="update order..." />
+                <marker date="1413334486260" expanded="true" signature="508:553" placeholder="UPDATE order..." />
+                <marker date="1413334486260" expanded="true" signature="615:644" placeholder="UPDATE order..." />
+                <marker date="1413334486260" expanded="true" signature="615:646" placeholder="UPDATE order..." />
+                <marker date="1413334486260" expanded="true" signature="615:681" placeholder="UPDATE order..." />
+                <marker date="1413334486260" expanded="true" signature="615:705" placeholder="UPDATE order..." />
+                <marker date="1413334486260" expanded="true" signature="615:741" placeholder="UPDATE order..." />
+                <marker date="1413334486260" expanded="true" signature="615:750" placeholder="UPDATE order..." />
               </folding>
             </state>
           </provider>
@@ -107,8 +106,8 @@
       <file leaf-file-name="order_remove.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/order_remove.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="544">
-              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+            <state vertical-scroll-proportion="-13.076923" vertical-offset="0" max-vertical-offset="544">
+              <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
               <folding>
                 <element signature="e#6#91#0#PHP" expanded="true" />
                 <marker date="1413331135185" expanded="true" signature="295:320" placeholder="DELETE FROM ..." />
@@ -141,11 +140,11 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/schema.sql" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/order_create.php" />
-        <option value="$PROJECT_DIR$/order_update.php" />
         <option value="$PROJECT_DIR$/order_remove.php" />
+        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/order_edit.php" />
+        <option value="$PROJECT_DIR$/order_update.php" />
       </list>
     </option>
   </component>
@@ -266,17 +265,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/schema.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.357142" vertical-offset="0" max-vertical-offset="476">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/order_create.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="510">
@@ -287,33 +275,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/order_update.php">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.1923075" vertical-offset="27" max-vertical-offset="595">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="29" selection-end-column="53" />
+        <state vertical-scroll-proportion="-9.423077" vertical-offset="537" max-vertical-offset="1394">
+          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
           <folding>
-            <element signature="e#6#91#0#PHP" expanded="true" />
-            <marker date="1413330578212" expanded="true" signature="390:479" placeholder="UPDATE order..." />
-            <marker date="1413330578212" expanded="true" signature="390:479" placeholder="UPDATE order..." />
-            <marker date="1413330578212" expanded="true" signature="390:479" placeholder="UPDATE order..." />
-            <marker date="1413330578212" expanded="true" signature="390:479" placeholder="UPDATE order..." />
-            <marker date="1413330578212" expanded="true" signature="396:408" placeholder="update order..." />
-            <marker date="1413330578212" expanded="true" signature="396:408" placeholder="update order..." />
-            <marker date="1413330578212" expanded="true" signature="396:408" placeholder="update order..." />
-            <marker date="1413330578212" expanded="true" signature="396:419" placeholder="update order..." />
-            <marker date="1413330578212" expanded="true" signature="396:421" placeholder="update order..." />
-            <marker date="1413330578212" expanded="true" signature="396:434" placeholder="update order..." />
-            <marker date="1413330578212" expanded="true" signature="396:434" placeholder="update order..." />
-            <marker date="1413330578212" expanded="true" signature="396:467" placeholder="update order..." />
-            <marker date="1413330578212" expanded="true" signature="396:469" placeholder="update order..." />
+            <marker date="1413333513456" expanded="true" signature="288:317" placeholder="SELECT * FRO..pizza_types..." />
+            <marker date="1413333513456" expanded="true" signature="772:792" placeholder="SELECT * FRO..orders..." />
+            <marker date="1413333513456" expanded="true" signature="1424:1896" placeholder="..." />
+            <marker date="1413333513456" expanded="true" signature="1436:1508" placeholder="..." />
+            <marker date="1413333513456" expanded="true" signature="1436:1888" placeholder="..." />
+            <marker date="1413333513456" expanded="true" signature="1449:1508" placeholder="..." />
+            <marker date="1413333513456" expanded="true" signature="1565:1624" placeholder="..." />
+            <marker date="1413333513456" expanded="true" signature="1565:1667" placeholder="..." />
+            <marker date="1413333513456" expanded="true" signature="1680:1742" placeholder="..." />
+            <marker date="1413333513456" expanded="true" signature="1680:1785" placeholder="..." />
+            <marker date="1413333513456" expanded="true" signature="1798:1827" placeholder="..." />
+            <marker date="1413333513456" expanded="true" signature="1798:1875" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/order_remove.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="544">
-          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        <state vertical-scroll-proportion="-13.076923" vertical-offset="0" max-vertical-offset="544">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
           <folding>
             <element signature="e#6#91#0#PHP" expanded="true" />
             <marker date="1413331135185" expanded="true" signature="295:320" placeholder="DELETE FROM ..." />
@@ -322,39 +308,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/order_edit.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.5384617" vertical-offset="544" max-vertical-offset="1462">
-          <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+        <state vertical-scroll-proportion="-9.807693" vertical-offset="510" max-vertical-offset="1122">
+          <caret line="45" column="12" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
           <folding>
-            <marker date="1413329159569" expanded="true" signature="288:317" placeholder="SELECT * FRO..pizza_types..." />
-            <marker date="1413329159569" expanded="true" signature="772:792" placeholder="SELECT * FRO..orders..." />
-            <marker date="1413329159569" expanded="true" signature="1504:1576" placeholder="..." />
-            <marker date="1413329159569" expanded="true" signature="1517:1576" placeholder="..." />
-            <marker date="1413329159569" expanded="true" signature="1633:1692" placeholder="..." />
-            <marker date="1413329159569" expanded="true" signature="1748:1810" placeholder="..." />
-            <marker date="1413329159569" expanded="true" signature="1866:1895" placeholder="..." />
+            <marker date="1413333894503" expanded="true" signature="354:392" placeholder="Select * Fro..orders..." />
+            <marker date="1413333894503" expanded="true" signature="354:401" placeholder="Select * Fro..orders..." />
+            <marker date="1413333894503" expanded="true" signature="748:1480" placeholder="..." />
+            <marker date="1413333894503" expanded="true" signature="835:1472" placeholder="..." />
+            <marker date="1413333894503" expanded="true" signature="848:907" placeholder="..." />
+            <marker date="1413333894503" expanded="true" signature="848:981" placeholder="..." />
+            <marker date="1413333894503" expanded="true" signature="994:1053" placeholder="..." />
+            <marker date="1413333894503" expanded="true" signature="994:1126" placeholder="..." />
+            <marker date="1413333894503" expanded="true" signature="1139:1201" placeholder="..." />
+            <marker date="1413333894503" expanded="true" signature="1139:1274" placeholder="..." />
+            <marker date="1413333894503" expanded="true" signature="1287:1316" placeholder="..." />
+            <marker date="1413333894503" expanded="true" signature="1287:1459" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/order_edit.php">
+    <entry file="file://$PROJECT_DIR$/schema.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7183099" vertical-offset="510" max-vertical-offset="1105">
-          <caret line="54" column="50" selection-start-line="54" selection-start-column="50" selection-end-line="54" selection-end-column="50" />
+        <state vertical-scroll-proportion="-4.857143" vertical-offset="0" max-vertical-offset="476">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order_update.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.52112675" vertical-offset="265" max-vertical-offset="833">
+          <caret line="33" column="90" selection-start-line="33" selection-start-column="90" selection-end-line="33" selection-end-column="90" />
           <folding>
-            <marker date="1413331424898" expanded="true" signature="343:381" placeholder="Select * Fro..orders..." />
-            <marker date="1413331424898" expanded="true" signature="343:390" placeholder="Select * Fro..orders..." />
-            <marker date="1413331424898" expanded="true" signature="735:1367" placeholder="..." />
-            <marker date="1413331424898" expanded="true" signature="822:1359" placeholder="..." />
-            <marker date="1413331424898" expanded="true" signature="835:894" placeholder="..." />
-            <marker date="1413331424898" expanded="true" signature="835:968" placeholder="..." />
-            <marker date="1413331424898" expanded="true" signature="981:1040" placeholder="..." />
-            <marker date="1413331424898" expanded="true" signature="981:1113" placeholder="..." />
-            <marker date="1413331424898" expanded="true" signature="1126:1188" placeholder="..." />
-            <marker date="1413331424898" expanded="true" signature="1126:1261" placeholder="..." />
-            <marker date="1413331424898" expanded="true" signature="1274:1303" placeholder="..." />
-            <marker date="1413331424898" expanded="true" signature="1274:1346" placeholder="..." />
+            <element signature="e#6#91#0#PHP" expanded="true" />
+            <marker date="1413334486260" expanded="true" signature="508:553" placeholder="UPDATE order..." />
+            <marker date="1413334486260" expanded="true" signature="615:644" placeholder="UPDATE order..." />
+            <marker date="1413334486260" expanded="true" signature="615:646" placeholder="UPDATE order..." />
+            <marker date="1413334486260" expanded="true" signature="615:681" placeholder="UPDATE order..." />
+            <marker date="1413334486260" expanded="true" signature="615:705" placeholder="UPDATE order..." />
+            <marker date="1413334486260" expanded="true" signature="615:741" placeholder="UPDATE order..." />
+            <marker date="1413334486260" expanded="true" signature="615:750" placeholder="UPDATE order..." />
           </folding>
         </state>
       </provider>
