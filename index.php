@@ -1,7 +1,7 @@
 <html>
 <body>
 
-<h2>Welcome to ZZA</h2>
+<h2>Welcome to Brandon's Pizza ZZA</h2>
 
 Our pizza types are:
 <ul>
@@ -28,9 +28,37 @@ SQL;
 
 <p><?php echo 'Total pizza types: ' . $result->num_rows; ?></p>
 
+<h3>Current Orders:</h3>
+
+<table>
+    <tr><td>Buyer</td><td>Pizza Type</td><td>How Spicy?</td><td></td></tr>
+<?php
+$sql = <<<SQL
+    SELECT *
+FROM orders
+SQL;
+
+if (!$result = mysqli_query($db_connection, $sql)) {
+die('There was an error running the query [' . mysqli_error($db_connection) . ']');
+}
+?>
+    <form action="order_edit.php">
+        <?php
+        while ($row = $result->fetch_assoc()) {
+            echo "<tr>";
+            echo "<td>" . $row['buyer_name'] . "</td>";
+            echo "<td>" . $row['type_name'] . "</td>";
+            echo "<td>" . $row['spicyness'] . "</td>";
+            echo "<td><input type=\"submit\" name=\"edit\" value=\"" . $row['order_id'] . "\"/></td>";
+            echo "</tr>";
+        }
+        ?>
+    </form>
+</table>
+
 <h3>What tastes good to you?</h3>
 <?php $result->free(); ?>
-<form action="order.php">
+<form action="order_create.php">
     <table>
         <tr>
             <td>My name:</td>
@@ -41,7 +69,11 @@ SQL;
             <td><input type="text" name="type_name"></td>
         </tr>
         <tr>
-            <td><input type="submit"></td>
+            <td>How Spicy?:</td>
+            <td><input type="text" name="spicyness"></td>
+        </tr>
+        <tr>
+            <td><input type="submit" value="Place Order"></td>
         </tr>
     </table>
 </form>

@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f10c219d-1808-4820-8ade-4b93a8c06e96" name="Default" comment="" />
+    <ignored path="PHP01.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="PHP01" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.5384617" vertical-offset="544" max-vertical-offset="1462">
+              <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+              <folding>
+                <marker date="1413329159569" expanded="true" signature="288:317" placeholder="SELECT * FRO..pizza_types..." />
+                <marker date="1413329159569" expanded="true" signature="772:792" placeholder="SELECT * FRO..orders..." />
+                <marker date="1413329159569" expanded="true" signature="1504:1576" placeholder="..." />
+                <marker date="1413329159569" expanded="true" signature="1517:1576" placeholder="..." />
+                <marker date="1413329159569" expanded="true" signature="1633:1692" placeholder="..." />
+                <marker date="1413329159569" expanded="true" signature="1748:1810" placeholder="..." />
+                <marker date="1413329159569" expanded="true" signature="1866:1895" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="schema.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/schema.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.357142" vertical-offset="0" max-vertical-offset="476">
+              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="order_edit.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/order_edit.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7183099" vertical-offset="510" max-vertical-offset="1105">
+              <caret line="54" column="50" selection-start-line="54" selection-start-column="50" selection-end-line="54" selection-end-column="50" />
+              <folding>
+                <marker date="1413331424898" expanded="true" signature="343:381" placeholder="Select * Fro..orders..." />
+                <marker date="1413331424898" expanded="true" signature="343:390" placeholder="Select * Fro..orders..." />
+                <marker date="1413331424898" expanded="true" signature="735:1367" placeholder="..." />
+                <marker date="1413331424898" expanded="true" signature="822:1359" placeholder="..." />
+                <marker date="1413331424898" expanded="true" signature="835:894" placeholder="..." />
+                <marker date="1413331424898" expanded="true" signature="835:968" placeholder="..." />
+                <marker date="1413331424898" expanded="true" signature="981:1040" placeholder="..." />
+                <marker date="1413331424898" expanded="true" signature="981:1113" placeholder="..." />
+                <marker date="1413331424898" expanded="true" signature="1126:1188" placeholder="..." />
+                <marker date="1413331424898" expanded="true" signature="1126:1261" placeholder="..." />
+                <marker date="1413331424898" expanded="true" signature="1274:1303" placeholder="..." />
+                <marker date="1413331424898" expanded="true" signature="1274:1346" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="order_update.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/order_update.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.1923075" vertical-offset="27" max-vertical-offset="595">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="29" selection-end-column="53" />
+              <folding>
+                <element signature="e#6#91#0#PHP" expanded="true" />
+                <marker date="1413330578212" expanded="true" signature="390:479" placeholder="UPDATE order..." />
+                <marker date="1413330578212" expanded="true" signature="390:479" placeholder="UPDATE order..." />
+                <marker date="1413330578212" expanded="true" signature="390:479" placeholder="UPDATE order..." />
+                <marker date="1413330578212" expanded="true" signature="390:479" placeholder="UPDATE order..." />
+                <marker date="1413330578212" expanded="true" signature="396:408" placeholder="update order..." />
+                <marker date="1413330578212" expanded="true" signature="396:408" placeholder="update order..." />
+                <marker date="1413330578212" expanded="true" signature="396:408" placeholder="update order..." />
+                <marker date="1413330578212" expanded="true" signature="396:419" placeholder="update order..." />
+                <marker date="1413330578212" expanded="true" signature="396:421" placeholder="update order..." />
+                <marker date="1413330578212" expanded="true" signature="396:434" placeholder="update order..." />
+                <marker date="1413330578212" expanded="true" signature="396:434" placeholder="update order..." />
+                <marker date="1413330578212" expanded="true" signature="396:467" placeholder="update order..." />
+                <marker date="1413330578212" expanded="true" signature="396:469" placeholder="update order..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="order_remove.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/order_remove.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="544">
+              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+              <folding>
+                <element signature="e#6#91#0#PHP" expanded="true" />
+                <marker date="1413331135185" expanded="true" signature="295:320" placeholder="DELETE FROM ..." />
+                <marker date="1413331135185" expanded="true" signature="295:340" placeholder="DELETE FROM ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="order_create.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/order_create.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="510">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <folding>
+                <marker date="1413330511638" expanded="true" signature="289:434" placeholder="INSERT INTO ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/schema.sql" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/order_create.php" />
+        <option value="$PROJECT_DIR$/order_update.php" />
+        <option value="$PROJECT_DIR$/order_remove.php" />
+        <option value="$PROJECT_DIR$/order_edit.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="72" />
+    <option name="y" value="20" />
+    <option name="width" value="1284" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f10c219d-1808-4820-8ade-4b93a8c06e96" name="Default" comment="" />
+      <created>1413326341706</created>
+      <option name="number" value="Default" />
+      <updated>1413326341706</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="72" y="20" width="1284" height="728" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/schema.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.357142" vertical-offset="0" max-vertical-offset="476">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order_create.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="510">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <marker date="1413330511638" expanded="true" signature="289:434" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order_update.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.1923075" vertical-offset="27" max-vertical-offset="595">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="29" selection-end-column="53" />
+          <folding>
+            <element signature="e#6#91#0#PHP" expanded="true" />
+            <marker date="1413330578212" expanded="true" signature="390:479" placeholder="UPDATE order..." />
+            <marker date="1413330578212" expanded="true" signature="390:479" placeholder="UPDATE order..." />
+            <marker date="1413330578212" expanded="true" signature="390:479" placeholder="UPDATE order..." />
+            <marker date="1413330578212" expanded="true" signature="390:479" placeholder="UPDATE order..." />
+            <marker date="1413330578212" expanded="true" signature="396:408" placeholder="update order..." />
+            <marker date="1413330578212" expanded="true" signature="396:408" placeholder="update order..." />
+            <marker date="1413330578212" expanded="true" signature="396:408" placeholder="update order..." />
+            <marker date="1413330578212" expanded="true" signature="396:419" placeholder="update order..." />
+            <marker date="1413330578212" expanded="true" signature="396:421" placeholder="update order..." />
+            <marker date="1413330578212" expanded="true" signature="396:434" placeholder="update order..." />
+            <marker date="1413330578212" expanded="true" signature="396:434" placeholder="update order..." />
+            <marker date="1413330578212" expanded="true" signature="396:467" placeholder="update order..." />
+            <marker date="1413330578212" expanded="true" signature="396:469" placeholder="update order..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order_remove.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="544">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+          <folding>
+            <element signature="e#6#91#0#PHP" expanded="true" />
+            <marker date="1413331135185" expanded="true" signature="295:320" placeholder="DELETE FROM ..." />
+            <marker date="1413331135185" expanded="true" signature="295:340" placeholder="DELETE FROM ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.5384617" vertical-offset="544" max-vertical-offset="1462">
+          <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+          <folding>
+            <marker date="1413329159569" expanded="true" signature="288:317" placeholder="SELECT * FRO..pizza_types..." />
+            <marker date="1413329159569" expanded="true" signature="772:792" placeholder="SELECT * FRO..orders..." />
+            <marker date="1413329159569" expanded="true" signature="1504:1576" placeholder="..." />
+            <marker date="1413329159569" expanded="true" signature="1517:1576" placeholder="..." />
+            <marker date="1413329159569" expanded="true" signature="1633:1692" placeholder="..." />
+            <marker date="1413329159569" expanded="true" signature="1748:1810" placeholder="..." />
+            <marker date="1413329159569" expanded="true" signature="1866:1895" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order_edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7183099" vertical-offset="510" max-vertical-offset="1105">
+          <caret line="54" column="50" selection-start-line="54" selection-start-column="50" selection-end-line="54" selection-end-column="50" />
+          <folding>
+            <marker date="1413331424898" expanded="true" signature="343:381" placeholder="Select * Fro..orders..." />
+            <marker date="1413331424898" expanded="true" signature="343:390" placeholder="Select * Fro..orders..." />
+            <marker date="1413331424898" expanded="true" signature="735:1367" placeholder="..." />
+            <marker date="1413331424898" expanded="true" signature="822:1359" placeholder="..." />
+            <marker date="1413331424898" expanded="true" signature="835:894" placeholder="..." />
+            <marker date="1413331424898" expanded="true" signature="835:968" placeholder="..." />
+            <marker date="1413331424898" expanded="true" signature="981:1040" placeholder="..." />
+            <marker date="1413331424898" expanded="true" signature="981:1113" placeholder="..." />
+            <marker date="1413331424898" expanded="true" signature="1126:1188" placeholder="..." />
+            <marker date="1413331424898" expanded="true" signature="1126:1261" placeholder="..." />
+            <marker date="1413331424898" expanded="true" signature="1274:1303" placeholder="..." />
+            <marker date="1413331424898" expanded="true" signature="1274:1346" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
